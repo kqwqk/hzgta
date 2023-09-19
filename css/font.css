@@ -1,0 +1,17 @@
+/* @CHARSET "UTF-8";
+@font-face {
+ font-family: ‘FpiFont’;
+ src: url(‘fontName.eot’);
+ src: local(‘fontName Regular’), 
+      local(‘fontName’), 
+      url(‘fontName.woff’) format(‘woff’), 
+      url(‘fontName.ttf’) format(‘truetype’), 
+      url(‘fontName.svg#fontName’) format(’svg’);
+} */
+@CHARSET "UTF-8";
+@font-face {
+ font-family: 'FZLTXHK';
+ src: url('../fonts/FZLTXHK.ttf'),
+      url(‘../fonts/FZLTXHK.svg#FZLTXHK’) format(’svg’),
+      url(‘../fonts/FZLTXHK.otf’) format(’otf’);
+}  
